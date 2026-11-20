@@ -57,5 +57,5 @@ again at each gate, so the steps are found early and not at the end:
 | ID | Where (page › element or class) | Breakpoint | Set | Why the API can't | Done |
 | --- | --- | --- | --- | --- | --- |
 | A | Site settings › Backups | — | Make a backup named `2026-11-20 before wf-template` (rollback point, webflow-audit › 4) | Backups aren't in the API | ☐ |
-| B | GitHub › brandvm/wf-bonustrack › Settings | — | Branch protection on `master`; Pages › Source: GitHub Actions; Collaborators and teams › `developers` (Write) | Repo admin settings, a person's call | ☐ |
+| B | GitHub › brandvm/wf-bonustrack › Settings | — | Branch protection on `master`; Collaborators and teams › `developers` (Write). (Pages › Source: GitHub Actions was turned on 2026-11-20; staging bundles deploy.) | Repo admin settings, a person's call | ☐ |
 | C | Claude Code in `Bonus Track/` › `/mcp` | — | Approve `webflow-bonustrack`, sign in, tick **only** Bonus Track (not the workspace box) | OAuth sign-in is a person's | ☐ |
