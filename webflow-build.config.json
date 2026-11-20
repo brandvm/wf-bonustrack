@@ -1,0 +1,14 @@
+{
+  "prototypeUrl": "http://127.0.0.1:5935",
+  "stagingUrl": "https://wf-bonus-track.webflow.io",
+  "liveUrl": "https://www.thisisbonustrack.com",
+  "repoDir": ".",
+  "bundlePattern": "brandvm\\.github\\.io/wf-bonustrack/(index\\.js|styles\\.css)",
+  "widths": [
+    [1440, 900],
+    [820, 1180],
+    [667, 375],
+    [390, 844]
+  ],
+  "pages": ["/", "/services", "/works", "/liner-notes", "/cherry-picked", "/contact", "/fwb", "/post/we-have-hit-play", "/portfolios/park-hyatt-toronto", "/cherrypicked/cake-mix"]
+}
