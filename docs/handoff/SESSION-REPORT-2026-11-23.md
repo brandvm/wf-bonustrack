@@ -1,10 +1,9 @@
 # Session report: 2026-11-23
 
-The Claude Code sessions listed below were archived on 2026-11-23 to keep the Claude app responsive. This file records where each one left off, so a new session can pick up the work.
+The Claude Code sessions listed below were archived and then deleted on 2026-11-23 to keep the Claude app responsive. This file records where each one left off, so a new session can pick up the work.
 
 Read this with `HANDOFF.md` (the project brief and its Status section). If something here conflicts with `HANDOFF.md`, `HANDOFF.md` and the git history are more current.
 
-To reopen a session, go to the Claude app's sidebar → Archived, or use the session link while the app is installed.
 
 ## Open items
 
@@ -24,7 +23,7 @@ Latest commits on the default branch:
 ### Bonus Track: set up on wf-template
 
 - **Active:** 2026-11-20 → 2026-11-23 11:29
-- **Session:** [local_919d4f92-bc3c-4d2b-a6a7-b468d31fa2e9](claude://claude.ai/epitaxy/local_919d4f92-bc3c-4d2b-a6a7-b468d31fa2e9) (archived)
+- **Session:** `local_919d4f92-bc3c-4d2b-a6a7-b468d31fa2e9` (deleted 2026-11-23)
 - **Started with:** "Another Claude session sent a message: <cross-session-message from="local_63d734be-a5b4-428c-b937-21a62dc9c2d3" from-name="Harvest client lessons, then audit 8 client sites"> Go-ahead from the user ("can you tell them?", after the next-step list): commit the MANUAL-TODO update, take wf-template 1.0.…"
 - **Where it ended:** Tested and confirmed: renaming an asset doesn't change its published file name (the home-page image still has its old URL on staging).
 - **Recent progress:**
